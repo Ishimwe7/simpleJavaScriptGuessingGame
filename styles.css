@@ -1,0 +1,35 @@
+.guess{
+}
+#title{
+    text-align: center;
+    text-decoration: underline;
+}
+label{
+    font-size: large;
+    font-weight: bold;
+}
+button{
+    margin-top: 40px;
+    font-size: x-large;
+    border-radius: 5px;
+    margin-left: 100px;
+    color: white;
+    background-color: black;
+}
+button:hover{
+    color: black;
+    background-color: white;
+}
+input{
+    font-size: larger;
+    border-radius: 5px;
+}
+    .game{
+        margin-left: 500px;
+        margin-top: 150px;
+        border: 2px solid black;
+        border-radius: 10px;
+        padding: 20px 20px;
+        height: 250px;
+        width: 350px;
+    }
